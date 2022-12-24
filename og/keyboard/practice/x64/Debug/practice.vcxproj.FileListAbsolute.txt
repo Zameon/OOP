@@ -1,0 +1,12 @@
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\practice.vcxproj.AssemblyReference.cache
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\practice.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\practice.exe
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\practice.MyForm.resources
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\practice.vcxproj.GenerateResource.cache
+C:\Users\yousu\Desktop\OOP\practice\x64\Debug\Bitmap.bmp
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\practice.vcxproj.AssemblyReference.cache
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\practice.vcxproj.SuggestedBindingRedirects.cache
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\practice.MyForm.resources
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\practice.vcxproj.GenerateResource.cache
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\Bitmap.bmp
+F:\code\IUT stuff\IUT Lab\2nd year\3rd Semester\OOP Lab\Project\og\keyboard\practice\x64\Debug\practice.exe
